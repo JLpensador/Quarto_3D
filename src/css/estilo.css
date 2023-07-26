@@ -3035,7 +3035,7 @@ blb2__back {
   }
   
   .menu-lateral .icone{
-  width: 50px;
+  width: 40px;
   filter: invert(1);
   transition: 0.3s ease-in-out;
   }
